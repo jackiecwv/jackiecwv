@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jackiecwv
 - 👀 I’m interested in abstract art, working out (running, cycling)
-- 🌱 I’m currently learning Git, Advanced SQL, Advanced Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Instagram: jackie_cwv
 - 😄 Pronouns: quirky, math geek, artsy 
