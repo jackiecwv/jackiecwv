@@ -3,7 +3,7 @@
 - 👀 I’m interested in art, working out (running, cycling), hiking, and traveling (love Hawaii)
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jackie-vescio-a56261122/
 - 📫 How to reach me Instagram: https://www.instagram.com/jackie_cwv/
-- 😄 quirky, math/computer geek, artsy, TechEdMom
+- 😄 ChicGeekHQ: quirky, math/computer geek, artsy
 
 <!---
 jackiecwv/jackiecwv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
