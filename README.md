@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jackie CWV
-- Working on Data Science Projects for 2025
+- Working on Data Science Projects
 - 👀 I’m interested in art, working out (running, cycling), hiking, and traveling (love Hawaii)
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jackie-vescio-a56261122/
 - 📫 How to reach me Instagram: https://www.instagram.com/jackie_cwv/
