@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Jackie CWV
+- 👋 Hi, my name is Jackie CW Vescio
 - Working on Data Science Projects
 - 👀 I’m interested in data science, art, working out (running, cycling), hiking, and traveling the world!
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jackie-vescio-a56261122/
